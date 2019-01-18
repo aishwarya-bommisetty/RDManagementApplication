@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <role role_id="1" role_name="SUPERADMIN" />
+  <role role_id="2" role_name="ADMIN" />
+  <role role_id="3" role_name="TRAINER" />
+  <role role_id="4" role_name="MENTOR" />
+  <role role_id="5" role_name="STUDENT" />
+  <user user_id="28" email="john_doe@epam.com" first_name="John"
+    last_name="Doe" role_id="5" password="$2a$10$TY1N5zG8CQTpRaRLyyD3/uvsWEWRJeWGpI822vU75IZ34Bp/IBoCu" />
+  <user user_id="29" email="parth_tedox@epam.com" first_name="sarthak"
+    last_name="jain" role_id="5" password="$2a$10$qQuXkdC9MPv8hrD/MKhoDObp/fh7Vrufn5InfmlfYnFzhqOofA8iO" />
+</dataset>
